@@ -1,0 +1,12 @@
+{
+  "name": "curso-express",
+  "version": "1.0.0",
+  "description": "Este es un curso donde aprendere hacer APIS con express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ing. Abraham Echeverria",
+  "license": "ISC"
+}

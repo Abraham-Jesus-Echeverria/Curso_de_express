@@ -23,4 +23,6 @@ app.use(express.static('./public'));
 
 app.listen(app.get('port'), ()=>{ 
     console.log(`el servidor esta escuchando en el puerto ${app.get('port')}`); 
-}); 
+});  
+
+// nota el metodo static sirve para devolver carpetas de archivos enteras 
